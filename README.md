@@ -1,6 +1,6 @@
 # Cheatsheet :: R Best Practice
 
-[![](cheatsheet.jpg)](cheatsheet.pdf){target="_blank"}
+[![](cheatsheet.jpg)](cheatsheet.pdf)
 
 The information here is obviously highly opinionated, and by no means gives
 the only correct way to do things. This is simply intended to be a quick primer
