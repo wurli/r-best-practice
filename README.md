@@ -1,4 +1,4 @@
-# Cheatsheet :: R Best Practice
+# Best Practice for R :: Cheat Sheet
 
 [![](cheatsheet.jpg)](cheatsheet.pdf)
 
