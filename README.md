@@ -1,5 +1,7 @@
 # Cheatsheet :: R Best Practice
 
+[![](cheatsheet.jpg)](cheatsheet.pdf){target="_blank"}
+
 The information here is obviously highly opinionated, and by no means gives
 the only correct way to do things. This is simply intended to be a quick primer
 for developers new to R, who have an interest in doing things well.
