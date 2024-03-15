@@ -16,5 +16,5 @@ credit! If you're using GitHub, the best way to do this is by creating a
 fork of this repo.
 
 This cheatsheet is inspired by the
-[cheatsheets](https://github.com/rstudio/cheatsheets) created by Post for other
+[cheatsheets](https://github.com/rstudio/cheatsheets) created by Posit for other
 data science software. 
