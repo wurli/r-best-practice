@@ -13,7 +13,7 @@ is a slightly more generalised version.
 
 Feel free to adapt and use this cheatsheet for your own use, but please give 
 credit! If you're using GitHub, the best way to do this is by creating a 
-fork of this repo.
+fork of this repo. Please also push your changes so others can benefit!
 
 This cheatsheet is inspired by (and has now been added to) the
 [cheatsheets](https://github.com/rstudio/cheatsheets) created by Posit for other
